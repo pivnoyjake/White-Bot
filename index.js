@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Worked by pivnoyjake"];
 
 
 let currentIndex = 0;
