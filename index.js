@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Worked by pivnoyjake"];
+const statusMessages = ["🦅Демократия в опасности"];
 
 
 let currentIndex = 0;
